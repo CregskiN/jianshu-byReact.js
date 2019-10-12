@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51277a27-4102-450c-ae7a-797b48617fe4" name="Default Changelist" comment="" />
+    <list default="true" id="51277a27-4102-450c-ae7a-797b48617fe4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="3fdf3d6a-7107-4764-8021-fa43257fe97d" />
@@ -114,7 +116,8 @@
       <workItem from="1570751769245" duration="13973000" />
       <workItem from="1570770484259" duration="3242000" />
       <workItem from="1570789496488" duration="14764000" />
-      <workItem from="1570839533817" duration="2628000" />
+      <workItem from="1570839533817" duration="3355000" />
+      <workItem from="1570843881827" duration="382000" />
     </task>
     <servers />
   </component>
