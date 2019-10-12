@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 
-
 export const HomeWrapper = styled.div`
     overflow: hidden;
     width:960px;
@@ -15,12 +14,13 @@ export const HomeLeft = styled.div`
     .banner-img {
         width: 625px;
         height: 270px;
+        border-radius: 5px;
     }
 `;
 
 export const HomeRight = styled.div`
-    width: 280px;
     float: right;
+    width: 280px;
 `;
 
 export const TopicWrapper = styled.div`
@@ -127,38 +127,6 @@ export const RecommendItem = styled.div`
     background-size: contain;
 `;
 
-export const WriterWrapper = styled.div`
-    width: 278px;
-    height: 300px;
-    border-radius: 3px;
-    border: 1px solid #000;
-    display: grid;
-    grid-template-rows: 25px 270px;
-    grid-template-areas: "header" "writerWrapper";
-    row-gap: 5px;
-    .header {
-        grid-area: header;
-        display: inline-grid;
-        grid-template-columns: 10px 127px 127px 10px;
-        grid-template:"." 2px ". left right ." 2px ".";
-        .left {
-            grid-area: left;
-            justify-self: start;
-            font-size: 14px;
-            color: #969696;
-        }
-        .right {
-            grid-area: right;
-            justify-self: end;
-            font-size: 14px;
-            color: #969696;
-        }
-    }
-    .writerWrapper {
-        grid-area: writerWrapper;
-        
-    }
-`;
 
 export const LoadMore = styled.div`
     width: 100%;

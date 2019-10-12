@@ -3,7 +3,7 @@ import {connect} from 'react-redux';
 import Topic from './component/Topic';
 import List from './component/List';
 import Recommend from './component/Recommend';
-import Writer from './component/Writer';
+import Writer from './component/Writer/index';
 import {actionCreators} from './store';
 import {BackTop} from './style';
 import {

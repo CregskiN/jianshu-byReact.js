@@ -2,8 +2,9 @@ import styled from 'styled-components';
 import logoPic from '../../statics/img/Header/logo.png';
 
 export const HeaderWrapper = styled.div`
-    overflow: hidden;
+    display: block;
     z-index: 1;
+    width: 100%;
     min-width:1000px;
     height: 58px;
     border-bottom:1px solid #f0f0f0;
@@ -20,7 +21,7 @@ export const Logo = styled.div`
 `;
 
 export const Nav = styled.div`
-    width: 100%; 
+    width: 100%;
     height: 100%;
     padding: 1px 0;
     box-sizing:border-box;
@@ -147,7 +148,6 @@ export const SearchInfoSwitch = styled.span`
 
 export const SearchInfoList = styled.div`
     overflow: hidden;
-
 `;
 
 
