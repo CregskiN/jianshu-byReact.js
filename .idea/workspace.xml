@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51277a27-4102-450c-ae7a-797b48617fe4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="3fdf3d6a-7107-4764-8021-fa43257fe97d" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1RpmFCHXlGrL18uDNTHH6KdAeSR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="$USER_HOME$/AppData/Roaming/npm/node_modules/standard" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\27247\Desktop\React.js\LearnReact\jianshu\src\pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51277a27-4102-450c-ae7a-797b48617fe4" name="Default Changelist" comment="" />
+      <created>1570372305297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570372305297</updated>
+      <workItem from="1570372307902" duration="2300000" />
+      <workItem from="1570374653838" duration="91000" />
+      <workItem from="1570374757384" duration="665000" />
+      <workItem from="1570407454149" duration="2198000" />
+      <workItem from="1570409667924" duration="13686000" />
+      <workItem from="1570434898397" duration="16000" />
+      <workItem from="1570454590145" duration="14000" />
+      <workItem from="1570454740710" duration="11000" />
+      <workItem from="1570454791396" duration="2616000" />
+      <workItem from="1570457600035" duration="1106000" />
+      <workItem from="1570459096942" duration="1779000" />
+      <workItem from="1570490269825" duration="8973000" />
+      <workItem from="1570507968612" duration="2893000" />
+      <workItem from="1570521790274" duration="155000" />
+      <workItem from="1570522028296" duration="4885000" />
+      <workItem from="1570529536022" duration="637000" />
+      <workItem from="1570539986510" duration="6548000" />
+      <workItem from="1570575055769" duration="19670000" />
+      <workItem from="1570606579782" duration="6518000" />
+      <workItem from="1570627678232" duration="4248000" />
+      <workItem from="1570664666194" duration="7831000" />
+      <workItem from="1570685019238" duration="2029000" />
+      <workItem from="1570695363129" duration="4399000" />
+      <workItem from="1570703012570" duration="5485000" />
+      <workItem from="1570714132107" duration="5288000" />
+      <workItem from="1570751769245" duration="13973000" />
+      <workItem from="1570770484259" duration="3242000" />
+      <workItem from="1570789496488" duration="14764000" />
+      <workItem from="1570839533817" duration="2628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
