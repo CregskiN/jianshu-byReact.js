@@ -26,7 +26,7 @@ class Recommend extends Component {
 
 
 const mapStateToProps = (state) => ({
-    list: state.getIn(['home', 'recommendList'])
+    list: state.getIn(['pages','home', 'recommendList'])
 });
 
 

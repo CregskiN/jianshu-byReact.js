@@ -29,7 +29,6 @@ export const WriterHeader = styled.div`
         justify-self: end;
         font-size: 14px;
         color: #969696;
-        cursor: pointer;
         .spin {
             display: inline-block;
             margin: 0 2px 0 0;
@@ -45,7 +44,9 @@ export const WriterItems = styled.div`
     grid-area: writerItems;
     width: 100%;
     height: 100%;
+    
 `;
+
 
 export const WriterItem = styled.div`
     margin: 15px 0 0 0;

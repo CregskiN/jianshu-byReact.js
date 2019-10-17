@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {CSSTransition} from 'react-transition-group';
 import {connect} from 'react-redux';
 import {actionCreators} from './store';
-import {actionCreators as loginActionCreators} from '../../login/store/index'
+import {actionCreators as loginActionCreators} from '../../pages/login/store/index'
 import {Link} from 'react-router-dom';
 import {
     HeaderWrapper,

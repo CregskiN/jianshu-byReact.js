@@ -28,7 +28,7 @@ class Topic extends Component {
 
 
 const mapStateToProps = (state) => ({
-    list: state.get('home').get('topicList')
+    list: state.get('pages').get('home').get('topicList')
 
 });
 

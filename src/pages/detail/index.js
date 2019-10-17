@@ -27,8 +27,8 @@ class Detail extends Component {
 
 
 const mapStateToProps = (state) => ({
-    title: state.getIn(['detail','title']),
-    content: state.getIn(['detail','content'])
+    title: state.getIn(['pages','detail','title']),
+    content: state.getIn(['pages','detail','content'])
 });
 
 const mapDispatchToProps = (dispatch) => ({

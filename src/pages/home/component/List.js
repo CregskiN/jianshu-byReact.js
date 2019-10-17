@@ -46,8 +46,8 @@ class List extends Component {
 
 
 const mapStateToProps = (state) => ({
-    list: state.getIn(['home', 'articleList']),
-    page: state.getIn(['home', 'articlePage']),
+    list: state.getIn(['pages','home', 'articleList']),
+    page: state.getIn(['pages','home', 'articlePage']),
 });
 
 const mapDispatchToProps = (dispatch) => ({

@@ -7,7 +7,7 @@ import store from './store/index';
 import Header from './common/header';
 import Home from './pages/home/index';
 import Detail from './pages/detail/loadable.js';
-import Login from './login/index';
+import Login from './pages/login/index';
 import Write from './pages/write/index';
 
 class App extends Component {

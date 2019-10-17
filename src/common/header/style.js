@@ -1,14 +1,15 @@
 import styled from 'styled-components';
 import logoPic from '../../statics/img/Header/logo.png';
 
-export const HeaderWrapper = styled.div`
-    display: block;
+export const HeaderWrapper = styled.span`
+    display: inline-block;  /*触发BFC*/
+    position:relative; /*触发z-index:1;*/
+    width:100%;
     z-index: 1;
-    width: 100%;
     min-width:1000px;
-    height: 58px;
     border-bottom:1px solid #f0f0f0;
     background: #fff;
+     
 `;
 
 export const Logo = styled.div`
@@ -188,7 +189,7 @@ export const Button = styled.div`
         width: 100px;
         margin-right: 50px; 
     }
-    
+ 
 `;
 
 

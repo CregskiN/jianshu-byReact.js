@@ -23,12 +23,11 @@ class Home extends Component {
         return (
             <HomeWrapper>
                 <HomeLeft>
-                    <img
-                        className='banner-img'
-                        src="//upload.jianshu.io/admin_banners/web_images/4741/240c3b01ebd63e7a7129976df20c5e10bd43d799.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540" alt={''}/>
+                    <img className='banner-img' src="//upload.jianshu.io/admin_banners/web_images/4741/240c3b01ebd63e7a7129976df20c5e10bd43d799.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540" alt={''}/>
                     <Topic/>
                     <List/>
                 </HomeLeft>
+
                 <HomeRight>
                     <Recommend/>
                     <Writer/>
@@ -53,7 +52,7 @@ class Home extends Component {
 }
 
 const mapStateToProps = (state) => ({
-    showScroll: state.getIn(['home', 'showScroll'])
+    showScroll: state.getIn(['pages','home', 'showScroll'])
 });
 
 
